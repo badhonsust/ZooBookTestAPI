@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ZooBook.Application\ZooBook.Application.csproj" />
+    <ProjectReference Include="..\ZooBook.Domain\ZooBook.Domain.csproj" />
+    <ProjectReference Include="..\ZooBook.Infra.Data\ZooBook.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
