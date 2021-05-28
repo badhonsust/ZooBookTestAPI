@@ -5,7 +5,7 @@ author: badhon ashfaQ
 ---
 
 # ZooBook Test API
-This repo contains the code for Zook Book test Exam.This is an API project which is Implemented By the [Clean Architecture Framework](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) by using Generic Repository Pattern.
+This repo contains the code for Zoo Book test Exam.This is an API project which is Implemented By the [Clean Architecture Framework](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) by using Generic Repository Pattern.
 
 
 ## Tech Stack:
